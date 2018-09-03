@@ -4,6 +4,8 @@ I wanted to hear the notation of music I was reading in this book. I entered in 
 Here are the finale files, midi files and XML files related to this video
 https://youtu.be/URR64mxSQxY
 
+I hope these are helpful.
+
 the list of files
 
 Korsakov - Practical Manual of Harmony 2018 exported separate tracks.mid
